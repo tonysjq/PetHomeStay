@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": 404,
+    "type": "not-found",
+    "description": "The requested resource could not be found.",
+    "messages": ["Could not find profile with ID 1234."]
+  }
+}

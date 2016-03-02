@@ -1,0 +1,90 @@
+{
+  "homestay": {
+    "id": 1234,
+    "slug": "dog-lover",
+    "title": "Love And Can Look After All Animals ",
+    "description": "My  cat and I respect  all animals and give them lots of love and entertainment. I have a secure back yard and enjoy going for walks especially to the beach",
+    "position": 1,
+    "distance": 3.679024964784216,
+    "image": {
+      "type": "homestay",
+      "id": "qhlydcrbk1e95oyaoclo",
+      "url": "https://res.cloudinary.com/hxnfgf9c2/image/upload/c_thumb,g_face,h_95,r_max,w_95/pt3ao5dc9orf2b7upq9f.png"
+    },
+    "host": {
+      "id": 1234,
+      "facebook_id": 123456789,
+      "first_name": "Ute",
+      "last_name": "Ute",
+      "image": {
+        "type": "user",
+        "id": "qhlydcrbk1e95oyaoclo"
+      },
+      "average_rating": 4.5,
+      "responsiveness_rate": 34,
+      "last_login_at": 1439267796
+    },
+    "profile": {
+      "favourite_breeds": ["Cocker spaniel", "Labrador", "Springer spaniel"],
+      "accepted_sizes": ["small", "medium"],
+      "accepted_energy_levels": ["low", "low_medium", "medium"],
+      "emergency_transport": true,
+      "police_check": true,
+      "constant_supervision": false
+    },
+    "location": {
+      "address": {
+        "street": "Finlay Street",
+        "suburb": "Frankston",
+        "state": "VIC",
+        "postcode": "3200"
+      },
+      "position": {
+        "latitude": -33.864347,
+        "longitude": 151.177383
+      }
+    },
+    "images": [{
+               "type": "host",
+               "id": "qhlydcrbk1e95oyaoclo"
+               }, {
+               "type": "pet",
+               "id": "qhlydcrbk1e95oyaoclo"
+               }, {
+               "type": "homestay",
+               "id": "qhlydcrbk1e95oyaoclo"
+               }],
+    "prices": [{
+               "service": "local",
+               "price": 30.0
+               }, {
+               "service": "remote",
+               "price": 45.0
+               }, {
+               "service": "walking",
+               "price": null
+               }, {
+               "service": "grooming",
+               "price": null
+               }, {
+               "service": "delivery",
+               "price": null
+               }],
+    "reviews": [{
+                "id": 1234,
+                "user": {
+                "id": 2345,
+                "facebook_id": 123456789,
+                "first_name": "David",
+                "last_name": "Bird",
+                "image": {
+                "type": "user",
+                "id": "qhlydcrbk1e95oyaoclo"
+                }
+                },
+                "rating": 3,
+                "review": "Fido loved it!",
+                "created_at": 1439294273
+                }]
+  }
+}

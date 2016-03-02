@@ -1,0 +1,83 @@
+{
+    "homestays": [{
+        "id": 1234,
+        "title": "Dog lover",
+        "description": "I am obsessed with animals of the furry, feathered and scaly kind. Pet walking, minding, feeding, pampering and loving while you are away on holidays, or at work is my speciality :)", 
+        "score": 0,
+        "distance": 0,
+        "image": {
+            "type": "homestay",
+            "id": "qhlydcrbk1e95oyaoclo",
+            "url": "http://res.cloudinary.com/demo/image/upload/sample.jpg"        
+        },
+        "host": {
+            "first_name": "Tom",
+            "last_name": "LeGrice",
+            "image": {
+                "type": "host",
+                "id": "qhlydcrbk1e95oyaoclo",
+                "url": "http://res.cloudinary.com/demo/image/upload/sample.jpg"
+            },
+            "responsiveness_rate": 34,
+            "last_login_at": 1439267796
+        },
+        "profile": {
+            "favourite_breeds": ["Cocker spaniel", "Labrador", "Springer spaniel"],
+            "accepted_sizes": ["small", "medium"],
+            "accepted_energy_levels": ["low", "low_medium", "medium"],
+            "emergency_transport": true,
+            "police_check": true,
+            "constant_supervision": false
+        }
+        "location": {
+            "address": {
+                "street": "4 Claremont Street",
+                "city": "Balmain",
+                "state": "NSW",
+                "postcode": "2041"
+            },
+            "position": {
+                "latitude": -33.864347,
+                "longitude": 151.177383
+            }
+        },
+        "images": [{
+            "type": "host",
+            "id": "qhlydcrbk1e95oyaoclo",
+            "url": "http://res.cloudinary.com/demo/image/upload/sample.jpg"
+        }, {
+            "type": "pet",
+            "id": "qhlydcrbk1e95oyaoclo",
+            "url": "http://res.cloudinary.com/demo/image/upload/sample.jpg"        
+        }, {
+            "type": "homestay",
+            "id": "qhlydcrbk1e95oyaoclo",
+            "url": "http://res.cloudinary.com/demo/image/upload/sample.jpg"        
+        }],
+        "prices": [{
+            "service": "local",
+            "price": 30.0
+        }, {
+            "service": "remote",
+            "price": 45.0
+        }, {
+            "service": "walking",
+            "price": nil
+        }, {
+            "service": "grooming",
+            "price": nil
+        }, {
+            "service": "delivery",
+            "price": nil
+        }],
+        "reviews": [{
+            "user": {
+                "id": 2345,
+                "first_name": "David",
+                "last_name": "Bird"
+            },
+            "rating": 3,
+            "created_at": 1439294273
+        }]
+    }]
+}

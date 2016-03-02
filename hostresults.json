@@ -1,0 +1,263 @@
+{
+  "homestays": [{
+                "id": 1234,
+                "slug": "dog-lover",
+                "title": "Love And Can Look After All Animals ",
+                "description": "My  cat and I respect  all animals and give them lots of love and entertainment. I have a secure back yard and enjoy going for walks especially to the beach",
+                "position": 1,
+                "distance": 3.679024964784216,
+                "image": {
+                  "type": "homestay",
+                  "id": "qhlydcrbk1e95oyaoclo",
+                  "url": "https://res.cloudinary.com/hxnfgf9c2/image/upload/c_thumb,g_face,h_95,r_max,w_95/pt3ao5dc9orf2b7upq9f.png"
+                },
+                "host": {
+                  "id": 1234,
+                  "facebook_id": 123456789,
+                  "first_name": "Ute",
+                  "last_name": "Ute",
+                  "image": {
+                    "type": "user",
+                    "id": "qhlydcrbk1e95oyaoclo"
+                  },
+                  "average_rating": 4.5,
+                  "responsiveness_rate": 34,
+                  "last_login_at": 1439267796
+                },
+                "profile": {
+                  "favourite_breeds": ["Cocker spaniel", "Labrador", "Springer spaniel"],
+                  "accepted_sizes": ["small", "medium"],
+                  "accepted_energy_levels": ["low", "low_medium", "medium"],
+                  "emergency_transport": true,
+                  "police_check": true,
+                  "constant_supervision": false
+                },
+                "location": {
+                  "address": {
+                    "street": "Finlay Street",
+                    "suburb": "Frankston",
+                    "state": "VIC",
+                    "postcode": "3200"
+                  },
+                  "position": {
+                    "latitude": -38.096548,
+                    "longitude": 145.174391
+                  }
+                },
+                "images": [{
+                           "type": "host",
+                           "id": "qhlydcrbk1e95oyaoclo",
+                           "url": "https://res.cloudinary.com/hxnfgf9c2/image/upload/a_exif,c_fill,h_400/a2bkpbea4yoj5spft5lp.png"
+                           }, {
+                           "type": "pet",
+                           "id": "qhlydcrbk1e95oyaoclo",
+                           "url": "https://res.cloudinary.com/hxnfgf9c2/image/upload/a_exif,c_fill,h_400/gfkvpme4euoy9debfaup.png"
+                           }, {
+                           "type": "homestay",
+                           "id": "qhlydcrbk1e95oyaoclo",
+                           "url": "https://res.cloudinary.com/hxnfgf9c2/image/upload/a_exif,c_fill,h_400/puzwk76giozrte7x5lva.png"
+                           }],
+                "prices": [{
+                           "service": "local",
+                           "price": 25.0
+                           }, {
+                           "service": "remote",
+                           "price": 45.0
+                           }, {
+                           "service": "walking",
+                           "price": null
+                           }, {
+                           "service": "grooming",
+                           "price": null
+                           }, {
+                           "service": "delivery",
+                           "price": null
+                           }],
+                "reviews": [{
+                            "id": 1234,
+                            "user": {
+                            "id": 2345,
+                            "facebook_id": 123456789,
+                            "first_name": "David",
+                            "last_name": "Bird",
+                            "image": {
+                            "type": "user",
+                            "id": "qhlydcrbk1e95oyaoclo"
+                            }
+                            },
+                            "rating": 3,
+                            "review": "Fido loved it!",
+                            "created_at": 1439294273
+                            }]
+                },
+                {
+                "id": 5678,
+                "slug": "dog-lover",
+                "title": "Friendly, Loving Dog Care",
+                "description": "Got a small friendly dog you would like to have looked after, then I can assist.",
+                "position": 1,
+                "distance": 3.679024964784216,
+                "image": {
+                "type": "homestay",
+                "id": "qhlydcrbk1e95oyaoclo",
+                "url": "https://d1nq2ztuzp3vk0.cloudfront.net/assets/default_profile_photo-1a2bd0751a274bfbd1479ec34b5cce36.jpg"
+                },
+                "host": {
+                "id": 1234,
+                "facebook_id": 123456789,
+                "first_name": "Nicole",
+                "last_name": "Nicole",
+                "image": {
+                "type": "user",
+                "id": "qhlydcrbk1e95oyaoclo"
+                },
+                "average_rating": 4.5,
+                "responsiveness_rate": 34,
+                "last_login_at": 1439267796
+                },
+                "profile": {
+                "favourite_breeds": ["Cocker spaniel", "Labrador", "Springer spaniel"],
+                "accepted_sizes": ["small", "medium"],
+                "accepted_energy_levels": ["low", "low_medium", "medium"],
+                "emergency_transport": true,
+                "police_check": true,
+                "constant_supervision": false
+                },
+                "location": {
+                "address": {
+                "street": "Greaves Road",
+                "suburb": "Narre Warren South",
+                "state": "VIC",
+                "postcode": "3200"
+                },
+                "position": {
+                "latitude": -38.103117,
+                "longitude": 145.184648
+                }
+                },
+                "images": [{
+                           "type": "host",
+                           "id": "qhlydcrbk1e95oyaoclo",
+                           "url": "https://d1nq2ztuzp3vk0.cloudfront.net/media/W1siZiIsIjIwMTQvMDQvMDgvMTAvNTYvMDUvMzEwL0hhcnZleS5KUEciXSxbInAiLCJ0aHVtYiIsIng0MDAiXV0"
+                           }, {
+                           "type": "pet",
+                           "id": "qhlydcrbk1e95oyaoclo",
+                           "url": "https://d1nq2ztuzp3vk0.cloudfront.net/media/W1siZiIsIjIwMTQvMDQvMDgvMTAvNTYvMDcvNjQxL0hhcnZleTMuSlBHIl0sWyJwIiwidGh1bWIiLCJ4NDAwIl1d"
+                           }],
+                "prices": [{
+                           "service": "local",
+                           "price": 30.0
+                           }, {
+                           "service": "remote",
+                           "price": 45.0
+                           }, {
+                           "service": "walking",
+                           "price": null
+                           }, {
+                           "service": "grooming",
+                           "price": null
+                           }, {
+                           "service": "delivery",
+                           "price": null
+                           }],
+                "reviews": [{
+                            "id": 1234,
+                            "user": {
+                            "id": 2345,
+                            "facebook_id": 123456789,
+                            "first_name": "David",
+                            "last_name": "Bird",
+                            "image": {
+                            "type": "user",
+                            "id": "qhlydcrbk1e95oyaoclo"
+                            }
+                            },
+                            "rating": 3,
+                            "review": "Fido loved it!",
+                            "created_at": 1439294273
+                            }]
+                },
+                {
+                "id": 9012,
+                "slug": "dog-lover",
+                "title": "Home Sweet Home Just Like Your Own",
+                "description": "I love all dogs and have been the proud owner of 2 German Shepherds and 2 labradors.   All of whom lived to ripe old ages.    I am also a pet raiser for Guide Dogs Victoria so our house and garden have been carefully examined to make sure everywhere is safe for animals.    I am happy to exercise your dog/dogs as you request.",
+                "position": 3,
+                "distance": 3.679024964784216,
+                "image": {
+                "type": "homestay",
+                "id": "qhlydcrbk1e95oyaoclo",
+                "url": "https://d1nq2ztuzp3vk0.cloudfront.net/assets/default_profile_photo-1a2bd0751a274bfbd1479ec34b5cce36.jpg"
+                },
+                "host": {
+                "id": 1234,
+                "facebook_id": 123456789,
+                "first_name": "Yvonne",
+                "last_name": "Yvonne",
+                "image": {
+                "type": "user",
+                "id": "qhlydcrbk1e95oyaoclo"
+                },
+                "average_rating": 4.5,
+                "responsiveness_rate": 34,
+                "last_login_at": 1439267796
+                },
+                "profile": {
+                "favourite_breeds": ["Cocker spaniel", "Labrador", "Springer spaniel"],
+                "accepted_sizes": ["small", "medium"],
+                "accepted_energy_levels": ["low", "low_medium", "medium"],
+                "emergency_transport": true,
+                "police_check": true,
+                "constant_supervision": false
+                },
+                "location": {
+                "address": {
+                "street": "Matthew Flinders Ave",
+                "suburb": "Endeavour Hills",
+                "state": "VIC",
+                "postcode": "3200"
+                },
+                "position": {
+                "latitude": -38.095434,
+                "longitude": 145.197008
+                }
+                },
+                "images": [{
+                           "type": "host",
+                           "id": "qhlydcrbk1e95oyaoclo",
+                           "url": "https://d1nq2ztuzp3vk0.cloudfront.net/media/W1siZiIsIjIwMTMvMDEvMTEvMDQvMTIvMjgvNzEyL2Zsb3JpZV8wMTQuSlBHIl0sWyJwIiwidGh1bWIiLCJ4NDAwIl1d"
+                           }],
+                "prices": [{
+                           "service": "local",
+                           "price": 45.0
+                           }, {
+                           "service": "remote",
+                           "price": 45.0
+                           }, {
+                           "service": "walking",
+                           "price": null
+                           }, {
+                           "service": "grooming",
+                           "price": null
+                           }, {
+                           "service": "delivery",
+                           "price": null
+                           }],
+                "reviews": [{
+                            "id": 1234,
+                            "user": {
+                            "id": 2345,
+                            "facebook_id": 123456789,
+                            "first_name": "David",
+                            "last_name": "Bird",
+                            "image": {
+                            "type": "user",
+                            "id": "qhlydcrbk1e95oyaoclo"
+                            }
+                            },
+                            "rating": 3,
+                            "review": "Fido loved it!",
+                            "created_at": 1439294273
+                            }]
+                }]
+}
